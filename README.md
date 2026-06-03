@@ -1,2 +1,22 @@
-# loan-approval-prediction
-Built a Loan Approval Prediction system using Python and Scikit-learn. Performed EDA, feature engineering, One-Hot Encoding, and feature scaling, and compared Logistic Regression, KNN, and Naive Bayes models. Achieved 88% accuracy with Logistic Regression and evaluated performance using Precision, Recall, F1-Score, and Confusion Matrix.
+# Loan Approval Prediction using Machine Learning
+
+## Models Compared
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+
+## Results
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 88.0% |
+| Naive Bayes | 86.0% |
+| KNN | 78.5% |
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Seaborn
+- Matplotlib
